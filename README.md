@@ -14,3 +14,6 @@
 
 ## Construction of Leading and Trailing
 ![image](https://user-images.githubusercontent.com/90020450/167542187-4dd99550-ad14-4242-ba9b-f787e4dfb3b6.png)
+
+## Computation of LR(0) items
+![image](https://user-images.githubusercontent.com/90020450/167542587-8f88ad2b-a5f4-4dc2-bb0d-b768bb923d9c.png)
