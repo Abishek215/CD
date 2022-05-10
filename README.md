@@ -20,3 +20,6 @@
 
 ## Intermediate Code Generation – Prefix, Postfix
 ![image](https://user-images.githubusercontent.com/90020450/167542850-80217edb-8bd1-4a69-86d2-cdf5107b36d2.png)
+
+## Intermediate Code Generation – Quadruple, Triple, Indirect Triple
+![image](https://user-images.githubusercontent.com/90020450/167543029-83f39f86-5293-48ce-8ae7-030c2b388508.png)
