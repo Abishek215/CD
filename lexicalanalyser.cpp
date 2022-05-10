@@ -1,3 +1,13 @@
+// Algorithm: 
+// 1. Start.  
+// 2. Get the input program from the file program.txt.  
+// 3. Read the program line by line and check if each word in a line is a keyword, identifier, math  operator, logical operator, numerical value or others symbol.  
+// 4. For each lexeme read, generate a token as follows: a. If the lexeme is a keyword, then the token is  the keyword itself. b. If the lexeme is an identifier, then the token generated is printed on the  console as identifier. c. In the same way the math operator, logical operator, numerical values and  others symbol are printed on the console.  
+// 5. The stream of tokens generated are displayed in the console output.  
+// 6. Stop 
+
+
+
 #include <stdio.h> 
 #include <ctype.h> 
 #include <string.h> 
