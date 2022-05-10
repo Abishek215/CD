@@ -11,3 +11,6 @@
 
 ## Construction of Shift Reducing Parser
 ![image](https://user-images.githubusercontent.com/90020450/167541875-d16e9aba-ab91-4771-95b4-8ee9b42e1550.png)
+
+## Construction of Leading and Trailing
+![image](https://user-images.githubusercontent.com/90020450/167542187-4dd99550-ad14-4242-ba9b-f787e4dfb3b6.png)
