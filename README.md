@@ -5,3 +5,6 @@
 
 ## Computation of FIRST and FOLLOW
 ![image](https://user-images.githubusercontent.com/90020450/167541179-aa65bb00-3f99-4300-bce8-8731cc656be4.png)
+
+## Construction of Predictive Parsing Table
+![image](https://user-images.githubusercontent.com/90020450/167541460-8f238581-45be-4cea-bbe3-6160e7634695.png)
