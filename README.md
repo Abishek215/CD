@@ -8,3 +8,6 @@
 
 ## Construction of Predictive Parsing Table
 ![image](https://user-images.githubusercontent.com/90020450/167541460-8f238581-45be-4cea-bbe3-6160e7634695.png)
+
+## Construction of Shift Reducing Parser
+![image](https://user-images.githubusercontent.com/90020450/167541875-d16e9aba-ab91-4771-95b4-8ee9b42e1550.png)
