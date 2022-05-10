@@ -17,3 +17,6 @@
 
 ## Computation of LR(0) items
 ![image](https://user-images.githubusercontent.com/90020450/167542587-8f88ad2b-a5f4-4dc2-bb0d-b768bb923d9c.png)
+
+## Intermediate Code Generation – Prefix, Postfix
+![image](https://user-images.githubusercontent.com/90020450/167542850-80217edb-8bd1-4a69-86d2-cdf5107b36d2.png)
